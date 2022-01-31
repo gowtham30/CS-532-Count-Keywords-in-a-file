@@ -1,6 +1,6 @@
 # CS-532-Count-Keywords-in-a-file
 
-his is a C program to count the number of keywords in a given text file.
+This is a C program to count the number of keywords in a given text file.
 
 I have used a structure with two entries keyword and count.
 struct table{
